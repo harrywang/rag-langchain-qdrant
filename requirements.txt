@@ -1,0 +1,10 @@
+openai
+qdrant-client
+langchain
+python-dotenv
+langchain-community 
+langchainhub
+langchain-openai 
+chromadb
+bs4
+wikipedia
