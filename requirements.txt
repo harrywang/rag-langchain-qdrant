@@ -8,3 +8,4 @@ langchain-openai
 chromadb
 bs4
 wikipedia
+weaviate-client
